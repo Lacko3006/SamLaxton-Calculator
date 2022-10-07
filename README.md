@@ -2,4 +2,4 @@
 
 HTML, CSS & JavaScript Calculator
 
-![alt text](./images/calculator.pngimages)
+![Calculator Project](./images/calculator.png)
