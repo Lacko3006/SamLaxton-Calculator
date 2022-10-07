@@ -2,4 +2,4 @@
 
 HTML, CSS & JavaScript Calculator
 
-<img src="./images/calculator.png width="48" />
+![Calculator Project](./images/calculator.png)
