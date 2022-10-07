@@ -2,4 +2,4 @@
 
 HTML, CSS & JavaScript Calculator
 
-![alt text](/.)
+![alt text](./images/calculator.pngimages)
